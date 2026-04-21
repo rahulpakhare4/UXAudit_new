@@ -1,5 +1,3 @@
-import React from "react";
-
 function Home() {
 
   // ✅ FIXED data (Tailwind-safe classes)
